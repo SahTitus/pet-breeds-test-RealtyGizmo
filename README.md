@@ -6,7 +6,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 [Live Demo](https://pet-breeds-test-realty-gizmo.vercel.app/)
 
 ## GitHub Repository
-[GitHub Repo](https://github.com/SahTitus/pet-breeds-test-RealtyGizmo)
+[GitHub Repo](https://pet-breed-sys.vercel.app/)
 
 ## Getting Started
 
